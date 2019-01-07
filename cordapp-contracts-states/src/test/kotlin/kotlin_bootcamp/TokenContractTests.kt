@@ -1,5 +1,14 @@
 package kotlin_bootcamp
 
+import net.corda.core.contracts.Contract
+import net.corda.core.identity.CordaX500Name
+import net.corda.testing.contracts.DummyState
+import net.corda.testing.core.DummyCommandData
+import net.corda.testing.core.TestIdentity
+import net.corda.testing.node.MockServices
+import net.corda.testing.node.ledger
+import org.junit.Test
+
 class TokenContractTests {
 //    private val alice = TestIdentity(CordaX500Name("Alice", "", "GB"))
 //    private val bob = TestIdentity(CordaX500Name("Bob", "", "GB"))
