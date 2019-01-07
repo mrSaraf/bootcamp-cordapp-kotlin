@@ -15,4 +15,4 @@ cordapp` folder and click `Open`
     i. Add a new SDK if required by clicking `New…` and selecting the JDK’s folder
 
 7. Open the `Project` view by clicking `View > Tool Windows > Project`
-8. You can now start implementing! 
+8. You can now start implementing!
