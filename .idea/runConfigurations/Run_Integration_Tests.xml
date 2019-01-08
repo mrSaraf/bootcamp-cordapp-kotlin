@@ -3,12 +3,12 @@
     <module name="cordapp_integrationTest" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="com.psl.*" />
+        <option name="PATTERN" value="kotlin_bootcamp.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
-    <option name="PACKAGE_NAME" value="com.psl" />
-    <option name="MAIN_CLASS_NAME" value="com.psl.DriverBasedTest" />
+    <option name="PACKAGE_NAME" value="kotlin_bootcamp" />
+    <option name="MAIN_CLASS_NAME" value="kotlin_bootcamp.DriverBasedTest" />
     <option name="METHOD_NAME" value="node test" />
     <option name="VM_PARAMETERS" value="-ea -javaagent:lib/quasar.jar" />
     <option name="PARAMETERS" value="" />
